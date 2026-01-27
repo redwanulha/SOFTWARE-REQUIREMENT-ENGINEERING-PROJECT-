@@ -3,30 +3,4 @@ An Online Meat Marketplace Management System
 
 Meat Bazar is a web and mobile-based digital platform that connects farmers, collectors, distributors, and customers to ensure transparent meat trading, fair pricing, and efficient delivery.
 
-Features
-
-User authentication
-
-Role-based dashboards
-
-Online meat ordering
-
-Inventory & order management
-
-Digital payments
-
-Reports & analytics
-
-
-User Roles
-
-Admin
-
-Collector
-
-Distributor
-
-Customer
-
-
 License: Academic use only
